@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String args[]) {
-		system.out.print("This is my frist feature branch!");
+		system.out.print("This is my frist staging branch!");
 	}
 }
