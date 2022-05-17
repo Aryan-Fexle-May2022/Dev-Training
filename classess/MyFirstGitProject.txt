@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String args[]) {
-		system.out.print("This is my frist Feature branch!");
+		system.out.print("This is my frist feature branch!");
 	}
 }
