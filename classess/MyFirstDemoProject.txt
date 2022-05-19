@@ -1,3 +1,15 @@
+
+public class MyFirstDemoProject {
+	public void print2(){
+		System.out.println("Hello, Now the conflict will occur");
+	}
+	public static void main(String args[]) {
+		MyFirstDemoProject demo = new MyFirstDemoProject();
+		System.out.println("At the time of conflict"+demo.print2()+"After the conflict"); 
+		system.out.println("This is my frist Staging branch!");
+		int variable4=;
+		int variable5=;
+		int variable6=;
 public class MyFirstDemoProject{
 	public void print() {
 		System.out.println("Hello, As of now no conflict");
