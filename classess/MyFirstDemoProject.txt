@@ -1,5 +1,14 @@
-public class HelloWorld {
-	public static void main(String args[]) {
-		system.out.print("This is my frist Staging branch!");
+public class MyFirstDemoProject{
+	public void print() {
+		System.out.println("Hello, As of now no conflict");
 	}
+	public static void main(String args[]) {
+		MyFirstDemoProject demo = new MyFirstDemoProject();
+		System.out.println("Before conflict "+demo .print());
+		System.out.println("This is my frist Staging branch!");
+		int variable1=;
+		int variable2=;
+		int variable3=;
+	}
+
 }
