@@ -5,10 +5,14 @@ public class MyFirstDemoProject{
 	public static void main(String args[]) {
 		MyFirstDemoProject demo = new MyFirstDemoProject();
 		System.out.println("Before conflict "+demo .print());
+		System.out.println("Now dev-feature-3");
 		System.out.println("This is my frist Staging branch!");
 		int variable1=;
 		int variable2=;
 		int variable3=;
+		int variable7=;
+		int variable8=;
+		int variable9=;
 	}
 
 }
