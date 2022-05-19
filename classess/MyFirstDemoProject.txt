@@ -5,7 +5,7 @@ public class MyFirstDemoProject {
 	public static void main(String args[]) {
 		MyFirstDemoProject demo = new MyFirstDemoProject();
 		System.out.println("At the time of conflict"+demo.print2()+"After the conflict"); 
-		system.out.print("This is my frist Staging branch!");
+		system.out.println("This is my frist Staging branch!");
 		int variable4=;
 		int variable5=;
 		int variable6=;
