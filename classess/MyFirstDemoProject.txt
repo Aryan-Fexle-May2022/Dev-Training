@@ -21,6 +21,8 @@ public class MyFirstDemoProject{
 		int variable1=;
 		int variable2=;
 		int variable8=;
+		int variable3=;
+		int variable7=;
 	}
 
 }
