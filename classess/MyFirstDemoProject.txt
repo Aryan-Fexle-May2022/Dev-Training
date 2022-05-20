@@ -20,6 +20,7 @@ public class MyFirstDemoProject{
 		System.out.println("This is my frist Staging branch!");
 		int variable1=;
 		int variable2=;
+		int variable3=;
 		int variable7=;
 	}
 
