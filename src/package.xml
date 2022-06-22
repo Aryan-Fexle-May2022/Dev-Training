@@ -4,7 +4,7 @@
         <members>ContactSearch</members>
         <members>EmployeeRecords</members>
         <members>StudentManager</members>
-		<members>PyramidProgram</members>
+	<members>PyramidProgram</members>
         <members>StarPattern2</members>
         <name>ApexClass</name>
     </types>
@@ -63,7 +63,7 @@
         <members>Student__c.Working_Office__c</members>
         <members>Student__c.Year_Of_Class__c</members>
         <members>Teacher__c.College__c</members>
-		<members>Bank_Account__c.ATM_Card_No__c</members>
+	<members>Bank_Account__c.ATM_Card_No__c</members>
         <members>Bank_Account__c.Account_Holder_s_Address__c</members>
         <members>Bank_Account__c.Account_Holder_s_Contact_Number__c</members>
         <members>Bank_Account__c.Account_Holder_s_Email__c</members>
@@ -115,7 +115,7 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
-		<members>Bank_Account__c</members>
+	<members>Bank_Account__c</members>
         <members>Conference_Room__c</members>
         <members>Deposit__c</members>
         <members>Meeting__c</members>
@@ -132,7 +132,7 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
-		<members>Bank_Account__c</members>
+	<members>Bank_Account__c</members>
         <members>Conference_Room__c</members>
         <members>Deposit__c</members>
         <members>Meeting__c</members>
@@ -149,7 +149,7 @@
         <members>Subject__c-Subject Layout</members>
         <members>Teacher__c-Teacher Layout</members>
         <members>Year_Of_Class__c-Year Of Class Layout</members>
-		<members>Bank_Account__c-Bank Account Layout</members>
+	<members>Bank_Account__c-Bank Account Layout</members>
         <members>Conference_Room__c-Conference Room Layout</members>
         <members>Deposit__c-Deposit Layout</members>
         <members>Meeting__c-Meeting Layout</members>
@@ -165,11 +165,11 @@
         <members>Subject__c.All</members>
         <members>Teacher__c.All</members>
         <members>Year_Of_Class__c.All</members>
-		<members>Bank_Account__c.All</members>
-		<members>Conference_Room__c.All</members>
-		<members>Deposit__c.All</members>
-		<members>Meeting__c.All</members>
-		<members>Office__c.All</members>
+	<members>Bank_Account__c.All</members>
+	<members>Conference_Room__c.All</members>
+	<members>Deposit__c.All</members>
+	<members>Meeting__c.All</members>
+	<members>Office__c.All</members>
         <name>ListView</name>
     </types>
     <types>
