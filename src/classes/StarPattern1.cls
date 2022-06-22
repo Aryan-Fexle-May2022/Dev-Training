@@ -1,23 +1,16 @@
 public class StarPattern1 {
-    public void printStar(Integer n){
-       for(integer i=1;i<=5;i++)
-    {
-        string s='  ';
-        for(integer j=1;j<=5;j++)
-        {
-            if(j>=6-i )
-            {
-                s = s + 'x';
+    public void printStar(){
+        for(Integer i=1;i<=5;i++){
+            String s='  ';
+            for(Integer j=1;j<=5;j++) {
+                if(j>=6-i ) {
+                    s = s + 'x';
+                }
+                 else {
+                     s = s + '_';
+                }
             }
-            else
-            {
-                 s = s + '_';
-            }
+            System.debug(s);
         }
-        
-        system.debug(s);
-        
     }
-    }
-
 }
